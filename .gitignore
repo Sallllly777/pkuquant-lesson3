@@ -1,0 +1,46 @@
+# Original market data and extracted datasets stay local.
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.parquet
+*.arrow
+*.feather
+*.h5
+*.hdf5
+data/
+datasets/
+
+# Generated reports may contain market-data samples.
+reports/*
+!reports/README.md
+
+# Python environments and build artifacts.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local credentials, logs and editor settings.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
