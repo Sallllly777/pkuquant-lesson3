@@ -1,0 +1,22 @@
+{
+  "source_date": "20260923",
+  "tasks": 21500,
+  "states": 88069,
+  "fill_auc_pm": 0.8855313512782758,
+  "fill_auc_stock_mean_pm": 0.7963014789024796,
+  "risk_mse_skill_pm": -0.014505323511518897,
+  "policy_mean_pm": {
+    "immediate": 0.0,
+    "passive30": 0.8312554541667868,
+    "price_fill": 0.7148575387394477,
+    "price_risk": 0.4937431696172192,
+    "price_then_passive": 0.7923139200394563,
+    "price_timing": 0.23420210572682043,
+    "risk_cancel_delay0": 0.39696410700182694,
+    "risk_cancel_delay1": 0.4110593109868093,
+    "risk_cancel_delay5": 0.5049431759477065,
+    "three_head": 0.491650069287343,
+    "wait30": -0.004120155556450529
+  },
+  "report_scope": "single-day exploratory execution research, not portfolio PnL"
+}

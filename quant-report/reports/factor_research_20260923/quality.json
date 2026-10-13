@@ -1,0 +1,169 @@
+{
+  "exe": {
+    "input_rows": 3792934,
+    "retained_rows": 3792934,
+    "exact_duplicates_removed": 0,
+    "conflicting_key_rows": 0,
+    "quarantined_rows": 0,
+    "nulls": {},
+    "nonfinite": {},
+    "invalid_time": 0,
+    "zero_price_rows": 0,
+    "zero_volume_rows": 0,
+    "price_rounding": {
+      "Price": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      }
+    },
+    "files": {
+      "trades_continuous.parquet": 3751604,
+      "trades_auction.parquet": 38867,
+      "trades_after_hours.parquet": 2463,
+      "trades_other.parquet": 0
+    }
+  },
+  "snp": {
+    "input_rows": 252631,
+    "retained_rows": 252631,
+    "exact_duplicates_removed": 0,
+    "conflicting_key_rows": 0,
+    "quarantined_rows": 0,
+    "nulls": {},
+    "nonfinite": {},
+    "invalid_time": 0,
+    "zero_price_rows": 9758,
+    "zero_volume_rows": 34758,
+    "price_rounding": {
+      "AfterPrice": {
+        "max_rounding_distance_cent": 0.00439453125,
+        "above_0_1_cent": 0
+      },
+      "AskPrice1": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "AskPrice2": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "AskPrice3": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "AskPrice4": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "AskPrice5": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "AskPrice6": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "AskPrice7": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "AskPrice8": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "AskPrice9": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "AskPrice10": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice1": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice2": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice3": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice4": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice5": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice6": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice7": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice8": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice9": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "BidPrice10": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "High": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "Low": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      },
+      "Open": {
+        "max_rounding_distance_cent": 0.0029296875,
+        "above_0_1_cent": 0
+      },
+      "PreClose": {
+        "max_rounding_distance_cent": 0.0048828125,
+        "above_0_1_cent": 0
+      },
+      "Price": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      }
+    },
+    "files": {
+      "snapshots.parquet": 252631
+    }
+  },
+  "ord": {
+    "input_rows": 6276360,
+    "retained_rows": 6276360,
+    "exact_duplicates_removed": 0,
+    "conflicting_key_rows": 0,
+    "quarantined_rows": 0,
+    "nulls": {},
+    "nonfinite": {},
+    "invalid_time": 0,
+    "zero_price_rows": 250,
+    "zero_volume_rows": 250,
+    "price_rounding": {
+      "Price": {
+        "max_rounding_distance_cent": 0.005859375,
+        "above_0_1_cent": 0
+      }
+    },
+    "files": {
+      "orders.parquet": 6276110,
+      "status_events.parquet": 250
+    }
+  }
+}

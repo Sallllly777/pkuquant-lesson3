@@ -1,0 +1,23 @@
+# The parent repository excludes all Parquet files. Publish this archive's
+# experiment outputs explicitly, while keeping raw data and large caches local.
+!reports/**/*.parquet
+
+# Rebuildable intermediate panels, retained locally but not staged for Git.
+/reports/execution_research_20260923/scored_panel.parquet
+/reports/final_research_20260923/observed_states.parquet
+/reports/final_research_20260923/labeled_states.parquet
+/reports/final_research_20260923/predicted_states.parquet
+
+# Also protect the folder when copied into a repository with different rules.
+*.zip
+*.7z
+*.rar
+/data/
+/datasets/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.key
+*.pem

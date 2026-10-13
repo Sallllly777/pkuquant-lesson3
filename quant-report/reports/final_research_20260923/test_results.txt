@@ -1,0 +1,49 @@
+test_bad_times_and_float32_cent_normalization (test_data.TimeTests.test_bad_times_and_float32_cent_normalization) ... ok
+test_feed_clock_is_not_decimal_seconds (test_data.TimeTests.test_feed_clock_is_not_decimal_seconds) ... ok
+test_after_hours_does_not_touch_book_or_fill (test_engine.MatchingTests.test_after_hours_does_not_touch_book_or_fill) ... ok
+test_auction_priority_and_cancel_lock (test_engine.MatchingTests.test_auction_priority_and_cancel_lock) ... ok
+test_auction_queue_does_not_fill_on_last_trade_ahead (test_engine.MatchingTests.test_auction_queue_does_not_fill_on_last_trade_ahead) ... ok
+test_boundaries_and_half_up (test_engine.MatchingTests.test_boundaries_and_half_up) ... ok
+test_cancel_advances_queue (test_engine.MatchingTests.test_cancel_advances_queue) ... ok
+test_cash_and_share_conservation (test_engine.MatchingTests.test_cash_and_share_conservation) ... ok
+test_close_auction_fills_before_day_expiry (test_engine.MatchingTests.test_close_auction_fills_before_day_expiry) ... ok
+test_invalid_tick_cash_cage_and_limits (test_engine.MatchingTests.test_invalid_tick_cash_cage_and_limits) ... ok
+test_lunch_and_daily_expiry (test_engine.MatchingTests.test_lunch_and_daily_expiry) ... ok
+test_missing_passive_fails_closed (test_engine.MatchingTests.test_missing_passive_fails_closed) ... ok
+test_new_order_crosses_improved_quote (test_engine.MatchingTests.test_new_order_crosses_improved_quote) ... ok
+test_no_lookahead (test_engine.MatchingTests.test_no_lookahead) ... ok
+test_odd_lot_can_be_sold_with_part_of_round_lots (test_engine.MatchingTests.test_odd_lot_can_be_sold_with_part_of_round_lots) ... ok
+test_partial_taker_no_reuse_and_cancel_release (test_engine.MatchingTests.test_partial_taker_no_reuse_and_cancel_release) ... ok
+test_passive_fifo_shared_trade_budget (test_engine.MatchingTests.test_passive_fifo_shared_trade_budget) ... ok
+test_price_cage_rounds_half_up_not_floor_or_ceil (test_engine.MatchingTests.test_price_cage_rounds_half_up_not_floor_or_ceil) ... ok
+test_price_priority_over_submission_time (test_engine.MatchingTests.test_price_priority_over_submission_time) ... ok
+test_star_lot_and_price_cage (test_engine.MatchingTests.test_star_lot_and_price_cage) ... ok
+test_t_plus_one_and_frozen_stock (test_engine.MatchingTests.test_t_plus_one_and_frozen_stock) ... ok
+test_delayed_passive_intention_can_arrive_as_taker (test_execution_research.ExecutionResearchTests.test_delayed_passive_intention_can_arrive_as_taker) ... ok
+test_mids_are_asof_and_reset_requires_no_live_orders (test_execution_research.ExecutionResearchTests.test_mids_are_asof_and_reset_requires_no_live_orders) ... ok
+test_partial_fill_remainder_cost_and_adverse_selection (test_execution_research.ExecutionResearchTests.test_partial_fill_remainder_cost_and_adverse_selection) ... ok
+test_remaining_quantity_not_assumed_resubmittable (test_execution_research.ExecutionResearchTests.test_remaining_quantity_not_assumed_resubmittable) ... ok
+test_research_wrapper_preserves_engine_matching (test_execution_research.ExecutionResearchTests.test_research_wrapper_preserves_engine_matching) ... ok
+test_visible_vwap_respects_reserved_quantity (test_execution_research.ExecutionResearchTests.test_visible_vwap_respects_reserved_quantity) ... ok
+test_auc_accounts_for_ties (test_final_study.FinalStudyTests.test_auc_accounts_for_ties) ... ok
+test_cancellation_ignores_entry_and_uses_first_observed_trigger (test_final_study.FinalStudyTests.test_cancellation_ignores_entry_and_uses_first_observed_trigger) ... ok
+test_entry_intercept_only_fill_model_is_empirical_probability (test_final_study.FinalStudyTests.test_entry_intercept_only_fill_model_is_empirical_probability) ... ok
+test_labels_cannot_be_raw_features (test_final_study.FinalStudyTests.test_labels_cannot_be_raw_features) ... ok
+test_remaining_labels_exclude_already_observed_fills_and_weights_are_causal (test_final_study.FinalStudyTests.test_remaining_labels_exclude_already_observed_fills_and_weights_are_causal) ... ok
+test_scaling_is_fitted_only_on_given_training_rows (test_final_study.FinalStudyTests.test_scaling_is_fitted_only_on_given_training_rows) ... ok
+test_time_partition_has_embargo (test_final_study.FinalStudyTests.test_time_partition_has_embargo) ... ok
+test_cached_book_matches_reference_after_every_event (test_research.ResearchIntegrityTests.test_cached_book_matches_reference_after_every_event) ... ok
+CLEAN ord: 3 -> 2; quarantined=0
+test_clean_preserves_status_and_removes_only_exact_duplicate (test_research.ResearchIntegrityTests.test_clean_preserves_status_and_removes_only_exact_duplicate) ... ok
+CLEAN ord: 2 -> 0; quarantined=2
+test_conflicting_business_id_is_quarantined (test_research.ResearchIntegrityTests.test_conflicting_business_id_is_quarantined) ... ok
+test_labels_and_momentum_do_not_cross_session_breaks (test_research.ResearchIntegrityTests.test_labels_and_momentum_do_not_cross_session_breaks) ... ok
+test_no_future_events_in_boundary_features (test_research.ResearchIntegrityTests.test_no_future_events_in_boundary_features) ... ok
+test_selection_and_direction_use_am_only (test_research.ResearchIntegrityTests.test_selection_and_direction_use_am_only) ... ok
+test_standard_ofi_direction (test_research.ResearchIntegrityTests.test_standard_ofi_direction) ... ok
+test_tied_tail_thresholds_do_not_create_signals (test_research.ResearchIntegrityTests.test_tied_tail_thresholds_do_not_create_signals) ... ok
+
+----------------------------------------------------------------------
+Ran 42 tests in 0.244s
+
+OK

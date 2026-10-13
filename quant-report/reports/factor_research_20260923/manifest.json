@@ -1,0 +1,17 @@
+{
+  "date": "20260923",
+  "stage": "all",
+  "source_sha256_before": "18c0e124a9c68eb2f77b965ca1f29c93bb30339d7db45245e1af3c0420c6c947",
+  "source_sha256_after": "18c0e124a9c68eb2f77b965ca1f29c93bb30339d7db45245e1af3c0420c6c947",
+  "source_unchanged": true,
+  "python": "3.12.5",
+  "pandas": "2.3.3",
+  "numpy": "2.5.3",
+  "pyarrow": "25.0.1",
+  "research_source_sha256": {
+    "pipeline.py": "2dffee7dd59b480feb9942ff0d039443182a4771e49c985d992c38092e74cc1a",
+    "report.py": "dedb0eecf0d3c7f87fa1117b187779f5213732244b76a315eaa36e98a52780ff",
+    "screen.py": "29422a5a4871e74454fded43e57112ec4b74d4e73c3f85b422a6aff908065b86",
+    "__init__.py": "b9d306f2fae6718d63594e358686ff0b7a00e3ab26071d39f4a581efeb46ba2d"
+  }
+}

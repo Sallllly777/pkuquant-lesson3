@@ -1,0 +1,13 @@
+{
+  "source_sha256": "18c0e124a9c68eb2f77b965ca1f29c93bb30339d7db45245e1af3c0420c6c947",
+  "source_unchanged": true,
+  "PM_replay_matches_previous_10500_tasks": true,
+  "tasks": 21500,
+  "states": 88069,
+  "policy_rows": 231000,
+  "models": 9,
+  "embedded_charts": 3,
+  "html_tables": 14,
+  "finite_predictions": true,
+  "labels_and_training_feature_whitelist_checked": true
+}

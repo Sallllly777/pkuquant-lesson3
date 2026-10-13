@@ -1,0 +1,12 @@
+{
+  "training": "09:35 <= task start < 10:50",
+  "embargo": "10:50 <= task start < 10:55",
+  "validation": "10:55 <= task start < 11:25",
+  "afternoon_audit": "13:05 <= task start < 14:50",
+  "observations": "Open orders only, at task ages 0,5,10,15,20,25 seconds; deadline age30",
+  "models": "Fixed logistic L2=.01; ridge L2=.1; training-only medians/scales and z clipping +/-5",
+  "weights": "Equal weight per observed state. Entry and surviving-order models fit separately; no weights based on future survival length",
+  "policy": "Price>=0: immediate; else maker if predicted full fill>=.5 and postfill drift>=-.5bp; else wait30",
+  "dynamic_cancel": "Post initial best quote, first age>=5 landmark predicting postfill drift<-.5bp cancels; cancellation delays0/1/5s; no re-entry",
+  "warning": "Same afternoon already observed in earlier research; temporal separation is not a new independent day test"
+}

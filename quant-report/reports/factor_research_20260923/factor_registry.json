@@ -1,0 +1,39 @@
+{
+  "directional": {
+    "obi1": "一档挂单量不平衡",
+    "obi5": "五档挂单量不平衡",
+    "obi10": "十档挂单量不平衡",
+    "weighted_obi": "按档位距离加权的挂单不平衡",
+    "weighted_mid_bias": "挂单量加权中点偏移",
+    "ladder_gap_bias": "十档价格空隙不对称",
+    "concentration_bias": "最优档挂单集中度差",
+    "trade_imb_5": "近5秒主动成交量不平衡",
+    "trade_imb_30": "近30秒主动成交量不平衡",
+    "trade_imb_60": "近60秒主动成交量不平衡",
+    "trade_count_imb": "近30秒主动成交笔数不平衡",
+    "large_trade_imb": "近30秒大额逐笔成交不平衡",
+    "new_order_imb": "近30秒新增剩余挂单不平衡",
+    "cancel_pressure": "近30秒卖侧减买侧撤单压力",
+    "fast_cancel_pressure": "1秒内撤单方向差",
+    "net_resting_flow": "近30秒净挂单流方向",
+    "ofi_5": "近5秒最优档订单流不平衡",
+    "ofi_30": "近30秒最优档订单流不平衡",
+    "ofi_60": "近60秒最优档订单流不平衡",
+    "momentum_5": "近5秒中间价动量",
+    "momentum_30": "近30秒中间价动量",
+    "momentum_60": "近60秒中间价动量",
+    "vwap_gap": "中间价相对近30秒成交均价偏离",
+    "peer_momentum_30": "其余样本股票近30秒等权动量",
+    "relative_momentum_30": "相对其余股票的近30秒动量"
+  },
+  "risk": {
+    "spread_bps": "买卖价差",
+    "log_depth10": "十档深度对数",
+    "event_rate": "每秒事件数",
+    "realized_vol_60": "近60秒已实现波动",
+    "mean_trade_value": "平均逐笔成交金额",
+    "cancel_share": "撤单量占新增和撤单总量比例",
+    "quote_age_ms": "最优价量未更新时长"
+  },
+  "units": "Price in cents, returns in basis points; 1bp=0.01%"
+}

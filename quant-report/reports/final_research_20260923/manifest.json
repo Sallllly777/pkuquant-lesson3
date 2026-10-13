@@ -1,0 +1,15 @@
+{
+  "source_unchanged": true,
+  "sha256": "18c0e124a9c68eb2f77b965ca1f29c93bb30339d7db45245e1af3c0420c6c947",
+  "stage": "analyze",
+  "code_hashes": {
+    "execution_report.py": "9d87183fb2c55fa68f4868a8bac4b0a90268b45422bd6f3ffe83694968b35e85",
+    "execution_study.py": "24d010f51261c72113d780abf9ddaa2381088242912e4051b29d87754fe0522e",
+    "final_study.py": "d8236066b337f34a086ca450ce38ce6b6d6ab20d2230517e4e68ec75630d3cf8",
+    "pipeline.py": "2dffee7dd59b480feb9942ff0d039443182a4771e49c985d992c38092e74cc1a",
+    "report.py": "dedb0eecf0d3c7f87fa1117b187779f5213732244b76a315eaa36e98a52780ff",
+    "screen.py": "29422a5a4871e74454fded43e57112ec4b74d4e73c3f85b422a6aff908065b86",
+    "__init__.py": "b9d306f2fae6718d63594e358686ff0b7a00e3ab26071d39f4a581efeb46ba2d"
+  },
+  "report_code_sha256": "a16ed5664464427e790e6abc6ae7bcaa52da4ede71cd86146bf2694553496be6"
+}

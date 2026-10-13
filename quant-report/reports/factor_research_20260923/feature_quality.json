@@ -1,0 +1,665 @@
+{
+  "rows": 142200,
+  "symbols": [
+    {
+      "symbol": 600028,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 109122,
+        "cancels": 31013,
+        "trades": 115069,
+        "unpublished_aggressor": 114394,
+        "after_hours_trades": 20
+      }
+    },
+    {
+      "symbol": 600030,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 68966,
+        "cancels": 20383,
+        "trades": 70020,
+        "unpublished_aggressor": 69037,
+        "after_hours_trades": 44
+      }
+    },
+    {
+      "symbol": 600031,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 88527,
+        "cancels": 24938,
+        "trades": 89942,
+        "unpublished_aggressor": 88700,
+        "after_hours_trades": 18
+      }
+    },
+    {
+      "symbol": 600036,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 94635,
+        "cancels": 24099,
+        "trades": 96287,
+        "unpublished_aggressor": 95606,
+        "after_hours_trades": 20
+      }
+    },
+    {
+      "symbol": 600050,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 40581,
+        "cancels": 16604,
+        "trades": 30796,
+        "unpublished_aggressor": 30354,
+        "after_hours_trades": 38
+      }
+    },
+    {
+      "symbol": 600089,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 52171,
+        "cancels": 18756,
+        "trades": 41112,
+        "unpublished_aggressor": 40702,
+        "after_hours_trades": 42
+      }
+    },
+    {
+      "symbol": 600111,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 60930,
+        "cancels": 19614,
+        "trades": 50130,
+        "unpublished_aggressor": 49356,
+        "after_hours_trades": 74
+      }
+    },
+    {
+      "symbol": 600150,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 152493,
+        "cancels": 37158,
+        "trades": 167450,
+        "unpublished_aggressor": 166072,
+        "after_hours_trades": 105
+      }
+    },
+    {
+      "symbol": 600183,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 274713,
+        "cancels": 114635,
+        "trades": 186979,
+        "unpublished_aggressor": 183869,
+        "after_hours_trades": 165
+      }
+    },
+    {
+      "symbol": 600276,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 104207,
+        "cancels": 32466,
+        "trades": 94046,
+        "unpublished_aggressor": 93292,
+        "after_hours_trades": 97
+      }
+    },
+    {
+      "symbol": 600309,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 111420,
+        "cancels": 37509,
+        "trades": 103807,
+        "unpublished_aggressor": 103088,
+        "after_hours_trades": 67
+      }
+    },
+    {
+      "symbol": 600406,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 54326,
+        "cancels": 16946,
+        "trades": 50078,
+        "unpublished_aggressor": 49416,
+        "after_hours_trades": 57
+      }
+    },
+    {
+      "symbol": 600519,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 42215,
+        "cancels": 18139,
+        "trades": 25766,
+        "unpublished_aggressor": 25491,
+        "after_hours_trades": 1
+      }
+    },
+    {
+      "symbol": 600760,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 24915,
+        "cancels": 9836,
+        "trades": 21600,
+        "unpublished_aggressor": 21246,
+        "after_hours_trades": 11
+      }
+    },
+    {
+      "symbol": 600809,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 33164,
+        "cancels": 13252,
+        "trades": 25410,
+        "unpublished_aggressor": 25182,
+        "after_hours_trades": 13
+      }
+    },
+    {
+      "symbol": 600887,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 74810,
+        "cancels": 20645,
+        "trades": 75372,
+        "unpublished_aggressor": 74823,
+        "after_hours_trades": 29
+      }
+    },
+    {
+      "symbol": 600900,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 117582,
+        "cancels": 35703,
+        "trades": 106936,
+        "unpublished_aggressor": 105947,
+        "after_hours_trades": 25
+      }
+    },
+    {
+      "symbol": 600930,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 54865,
+        "cancels": 23924,
+        "trades": 43736,
+        "unpublished_aggressor": 43274,
+        "after_hours_trades": 40
+      }
+    },
+    {
+      "symbol": 601012,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 82746,
+        "cancels": 33138,
+        "trades": 64285,
+        "unpublished_aggressor": 63678,
+        "after_hours_trades": 32
+      }
+    },
+    {
+      "symbol": 601088,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 49823,
+        "cancels": 15061,
+        "trades": 49425,
+        "unpublished_aggressor": 48934,
+        "after_hours_trades": 9
+      }
+    },
+    {
+      "symbol": 601127,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 65116,
+        "cancels": 25601,
+        "trades": 55069,
+        "unpublished_aggressor": 54336,
+        "after_hours_trades": 40
+      }
+    },
+    {
+      "symbol": 601166,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 49356,
+        "cancels": 16522,
+        "trades": 44538,
+        "unpublished_aggressor": 43854,
+        "after_hours_trades": 26
+      }
+    },
+    {
+      "symbol": 601211,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 58351,
+        "cancels": 15292,
+        "trades": 62561,
+        "unpublished_aggressor": 62189,
+        "after_hours_trades": 17
+      }
+    },
+    {
+      "symbol": 601288,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 146378,
+        "cancels": 52258,
+        "trades": 126992,
+        "unpublished_aggressor": 126025,
+        "after_hours_trades": 90
+      }
+    },
+    {
+      "symbol": 601318,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 95397,
+        "cancels": 26130,
+        "trades": 94014,
+        "unpublished_aggressor": 92670,
+        "after_hours_trades": 40
+      }
+    },
+    {
+      "symbol": 601328,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 62049,
+        "cancels": 19549,
+        "trades": 68309,
+        "unpublished_aggressor": 67864,
+        "after_hours_trades": 19
+      }
+    },
+    {
+      "symbol": 601398,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 113438,
+        "cancels": 36098,
+        "trades": 115894,
+        "unpublished_aggressor": 115252,
+        "after_hours_trades": 48
+      }
+    },
+    {
+      "symbol": 601600,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 117602,
+        "cancels": 32021,
+        "trades": 117595,
+        "unpublished_aggressor": 116861,
+        "after_hours_trades": 78
+      }
+    },
+    {
+      "symbol": 601601,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 64847,
+        "cancels": 18328,
+        "trades": 69618,
+        "unpublished_aggressor": 69050,
+        "after_hours_trades": 45
+      }
+    },
+    {
+      "symbol": 601628,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 41828,
+        "cancels": 13084,
+        "trades": 41881,
+        "unpublished_aggressor": 41497,
+        "after_hours_trades": 18
+      }
+    },
+    {
+      "symbol": 601658,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 52564,
+        "cancels": 22931,
+        "trades": 54939,
+        "unpublished_aggressor": 54503,
+        "after_hours_trades": 16
+      }
+    },
+    {
+      "symbol": 601668,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 70293,
+        "cancels": 28959,
+        "trades": 55462,
+        "unpublished_aggressor": 55042,
+        "after_hours_trades": 12
+      }
+    },
+    {
+      "symbol": 601688,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 43890,
+        "cancels": 13889,
+        "trades": 46467,
+        "unpublished_aggressor": 46047,
+        "after_hours_trades": 25
+      }
+    },
+    {
+      "symbol": 601728,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 46178,
+        "cancels": 15130,
+        "trades": 46602,
+        "unpublished_aggressor": 46287,
+        "after_hours_trades": 3
+      }
+    },
+    {
+      "symbol": 601857,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 70640,
+        "cancels": 17815,
+        "trades": 82171,
+        "unpublished_aggressor": 81431,
+        "after_hours_trades": 25
+      }
+    },
+    {
+      "symbol": 601888,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 46508,
+        "cancels": 21174,
+        "trades": 31695,
+        "unpublished_aggressor": 31267,
+        "after_hours_trades": 56
+      }
+    },
+    {
+      "symbol": 601899,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 192597,
+        "cancels": 66148,
+        "trades": 166154,
+        "unpublished_aggressor": 164298,
+        "after_hours_trades": 145
+      }
+    },
+    {
+      "symbol": 601919,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 76991,
+        "cancels": 19251,
+        "trades": 83369,
+        "unpublished_aggressor": 82982,
+        "after_hours_trades": 23
+      }
+    },
+    {
+      "symbol": 601988,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 110669,
+        "cancels": 34158,
+        "trades": 117986,
+        "unpublished_aggressor": 117401,
+        "after_hours_trades": 32
+      }
+    },
+    {
+      "symbol": 603019,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 96130,
+        "cancels": 52320,
+        "trades": 61572,
+        "unpublished_aggressor": 60746,
+        "after_hours_trades": 49
+      }
+    },
+    {
+      "symbol": 603259,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 143336,
+        "cancels": 50223,
+        "trades": 114859,
+        "unpublished_aggressor": 113834,
+        "after_hours_trades": 89
+      }
+    },
+    {
+      "symbol": 603501,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 41854,
+        "cancels": 17377,
+        "trades": 30236,
+        "unpublished_aggressor": 29793,
+        "after_hours_trades": 35
+      }
+    },
+    {
+      "symbol": 603986,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 238618,
+        "cancels": 104578,
+        "trades": 154397,
+        "unpublished_aggressor": 151940,
+        "after_hours_trades": 251
+      }
+    },
+    {
+      "symbol": 603993,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 136511,
+        "cancels": 40171,
+        "trades": 109021,
+        "unpublished_aggressor": 107212,
+        "after_hours_trades": 158
+      }
+    },
+    {
+      "symbol": 688008,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 193249,
+        "cancels": 104711,
+        "trades": 122301,
+        "unpublished_aggressor": 120696,
+        "after_hours_trades": 78
+      }
+    },
+    {
+      "symbol": 688012,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 97753,
+        "cancels": 71022,
+        "trades": 35888,
+        "unpublished_aggressor": 35357,
+        "after_hours_trades": 22
+      }
+    },
+    {
+      "symbol": 688041,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 140104,
+        "cancels": 86586,
+        "trades": 75259,
+        "unpublished_aggressor": 74567,
+        "after_hours_trades": 39
+      }
+    },
+    {
+      "symbol": 688111,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 42303,
+        "cancels": 31395,
+        "trades": 15051,
+        "unpublished_aggressor": 14667,
+        "after_hours_trades": 16
+      }
+    },
+    {
+      "symbol": 688256,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 83596,
+        "cancels": 63701,
+        "trades": 27685,
+        "unpublished_aggressor": 27348,
+        "after_hours_trades": 29
+      }
+    },
+    {
+      "symbol": 688981,
+      "sample_rows": 2844,
+      "invalid_grid_rows": 0,
+      "book_diagnostics": {
+        "status_events": 5,
+        "adds": 103052,
+        "cancels": 62460,
+        "trades": 54640,
+        "unpublished_aggressor": 54127,
+        "after_hours_trades": 32
+      }
+    }
+  ],
+  "sampling_ms": 5000,
+  "horizons_seconds": [
+    1,
+    5,
+    10,
+    30,
+    60,
+    120,
+    300
+  ]
+}
